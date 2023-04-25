@@ -1,4 +1,4 @@
-<h1> <img src="https://user-images.githubusercontent.com/71640494/234418273-5e973cb5-3148-4f3a-b737-8b5e104a5ec7.png" alt="Example Image" width="30" > ChessTrainer </h1>
+<h1> <img src="https://user-images.githubusercontent.com/71640494/234418273-5e973cb5-3148-4f3a-b737-8b5e104a5ec7.png" alt="Example Image" width="40" > ChessTrainer </h1>
 
 Chess is a board game played by two players on an 8x8 grid with 16 pieces. The goal is to checkmate the opponent's king, achieved by the strategic use of different pieces. The game can also end in resignation or a draw.
 This project aims to offer a user-friendly and immersive learning experience for chess beginners. The web application uses JavaScript (JS), Cascading Style Sheets (CSS), and Firebase for authentication and back-end database management. The user can play against an Artificial Intelligence (AI) opponent, adjust difficulty levels, and learn strategic moves. The primary focus is on providing an exceptional user experience and ease of use to improve chess skills.
@@ -33,7 +33,7 @@ or
 yarn run start # using yarn
 ```
 
-<h1> <img src="https://user-images.githubusercontent.com/71640494/234424590-40e5f3bf-f806-40ca-b3c2-405b3c0f130f.png" alt="Example Image" width="30" > Screenshot</h1>
+<h1> <img src="https://user-images.githubusercontent.com/71640494/234424590-40e5f3bf-f806-40ca-b3c2-405b3c0f130f.png" alt="Example Image" width="40" > Screenshot</h1>
 <h4>Home Page</h4>
 <h4>Guide Page</h4>
 <h4>Play Vs AI Page</h4>
@@ -45,9 +45,9 @@ yarn run start # using yarn
 <h4>Forum Page</h4>
 <h4>Leaderboard Page</h4>
 
-<h1> <img src="https://user-images.githubusercontent.com/71640494/234424709-05ac5ecd-5266-4257-a080-4502888fe766.png" alt="Example Image" width="30" > Quantitative Survey</h1>
+<h1> <img src="https://user-images.githubusercontent.com/71640494/234424709-05ac5ecd-5266-4257-a080-4502888fe766.png" alt="Example Image" width="40" > Quantitative Survey</h1>
 
-<h1> <img src="https://user-images.githubusercontent.com/71640494/234424801-31d4241f-402d-460e-be8f-58e7be68f1ec.png" alt="Example Image" width="30" > Feedback Survey</h1>
+<h1> <img src="https://user-images.githubusercontent.com/71640494/234424801-31d4241f-402d-460e-be8f-58e7be68f1ec.png" alt="Example Image" width="40" > Feedback Survey</h1>
 
 
 
