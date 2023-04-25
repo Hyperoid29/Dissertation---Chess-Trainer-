@@ -1,0 +1,106 @@
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+.accordion-item {
+    border-bottom: 1px solid #ccc;
+}
+
+.accordion-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.accordion-header h4 {
+    margin: 0;
+    font-weight: normal;
+}
+
+.accordion-header i {
+    font-size: 16px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+    padding: 10px;
+}
+
+.accordion-content p {
+    margin: 0;
+}
+
+.accordion-item.active .accordion-header i {
+    transform: rotate(180deg);
+}
+
+.accordion-item.active .accordion-content {
+    max-height: 1000px;
+}
+
+/*
+
+.box {
+    position: relative;
+    bottom: -200px;
+    width: 100em;
+    height: 500em;
+    z-index: 0;
+
+}
+*/
+.container-box {
+    position: relative;
+    bottom: -50px;
+    left: -50px;
+
+
+}
+
+.jumbotron {
+    height: 700px;
+    width: 1200px;
+    border-radius: 50px;
+
+    background: linear-gradient(to right, #b7c5d8, #e7c170);
+}
+
+.jumbotron h4 {
+    position: relative;
+    font-weight: bold;
+    font-size: 50px;
+    left: 520px;
+    bottom: 50px;
+    color: black;
+}
+
+.accordion {
+    position: relative;
+    bottom: 1050px;
+    left: 580px;
+    width: 450px;
+
+}
+
+.container img {
+    position: relative;
+    bottom: 500px;
+    left: -400px;
+    width: 750px;
+}
+
+.card-header {
+    border-radius: 20px;
+}
+
+.card {
+    border-radius: 20px;
+    background: linear-gradient(#b7c5d8);
+}

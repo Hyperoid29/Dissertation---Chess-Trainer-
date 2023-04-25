@@ -1,0 +1,119 @@
+.forum-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.forum-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.forum-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: white;
+}
+
+.forum-button {
+    padding: 10px 20px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+.forum-button:hover {
+    background-color: #005fa3;
+}
+
+/* Style for the topic container */
+.topic-container {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    transition: all 0.3s ease-in-out;
+}
+
+/* Style for the topic title */
+.topic-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+    color: black;
+}
+
+/* Style for the topic author and date */
+.topic-meta {
+    font-size: 14px;
+    color: #999;
+    margin: 0;
+}
+
+/* Style for the topic content */
+.topic-content {
+    font-size: 16px;
+    margin: 10px 0;
+}
+
+/* Style for the button to view the topic */
+.view-topic-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+/* Style for the button to create a new topic */
+.new-topic-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #28a745;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+/* Style for the button to go back to the forum page */
+.go-back-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 10px 0;
+}
+
+.topic-container:hover {
+    transform: translateY(-2px);
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.topic-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.delete-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.bin-icon {
+    height: 20px;
+    width: 20px;
+    margin-left: 10px;
+}

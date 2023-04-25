@@ -1,0 +1,140 @@
+.faq-container {
+    max-width: 800px;
+    margin: 0 auto;
+
+}
+
+.accordion-item {
+    border-bottom: 1px solid #ccc;
+}
+
+.accordion-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.accordion-header h4 {
+    margin: 0;
+    font-weight: normal;
+}
+
+.accordion-header i {
+    font-size: 16px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.accordion-content {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.3s ease-in-out;
+    padding: 10px;
+}
+
+.accordion-content p {
+    margin: 0;
+}
+
+.accordion-item.active .accordion-header i {
+    transform: rotate(180deg);
+}
+
+.accordion-item.active .accordion-content {
+    max-height: 1000px;
+}
+
+.container-box {
+    position: relative;
+    bottom: -50px;
+    left: -50px;
+
+
+}
+
+.jumbotron {
+    height: 700px;
+    width: 1200px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.jumbotron h4 {
+    position: relative;
+    font-weight: bold;
+    font-size: 50px;
+    left: 500px;
+    bottom: 50px;
+    color: black;
+}
+
+.jumbotron label {
+    position: relative;
+    left: 620px;
+    bottom: -150px;
+}
+
+.jumbotron input {
+    position: relative;
+    left: 620px;
+    bottom: -150px;
+    width: 45%;
+}
+
+.jumbotron Form {
+    position: relative;
+    bottom: 100px;
+}
+
+.accordion {
+    position: relative;
+    bottom: 1050px;
+    left: 580px;
+    width: 450px;
+
+}
+
+
+
+.circle {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    /* Change this value as needed */
+    height: 300px;
+    /* Change this value as needed */
+    border-radius: 50%;
+    background-color: #2d2d32;
+    bottom: 570px;
+    left: 100px;
+}
+
+.circle img {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    /* Change this value as needed */
+    height: auto;
+    /* Change this value as needed */
+}
+
+.card-header {
+    border-radius: 20px;
+}
+
+.card {
+    border-radius: 20px;
+    background: linear-gradient(#b7c5d8);
+}
+
+.button button {
+    position: relative;
+    left: 1055px;
+    bottom: -150px;
+    margin: 20px;
+}
