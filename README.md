@@ -10,21 +10,43 @@ git clone https://github.com/Hyperoid29/Dissertation---Chess-Trainer-.git
 
 cd Dissertation---Chess-Trainer--main
 ```
-<h2>Install Necessary Dependancies and Packages </h2>
+<h3>Install Necessary Dependancies and Packages </h2>
 
 ```console
 npm install # using npm
 or 
 yarn install # using yarn
 ```
-<h2>IMPORTANT INFORMATION</h2>
+<h3>IMPORTANT INFORMATION</h2>
+Create an .env file and paste in the following code: 
 
-
-
-
-
-
+```console
 SKIP_PREFLIGHT_CHECK=true
+```
+Click save and proceed to the next step. 
+
+<h3>Run Application</h2>
+
+```console
+npm start # using npm
+or 
+yarn run start # using yarn
+```
+
+<h1>Screenshot</h1>
+<h4>Home Page</h4>
+<h4>Guide Page</h4>
+<h4>Play Vs AI Page</h4>
+<h4>Ranked Page</h4>
+<h4>Analysis Page</h4>
+<h4>Watch Page</h4>
+<h4>FAQ Page</h4>
+<h4>Analytics Page</h4>
+<h4>Forum Page</h4>
+<h4>Leaderboard Page</h4>
+
+
+
 
 
 
