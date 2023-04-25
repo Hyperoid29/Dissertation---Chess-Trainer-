@@ -46,8 +46,10 @@ yarn run start # using yarn
 <h4>Leaderboard Page</h4>
 
 <h1> <img src="https://user-images.githubusercontent.com/71640494/234424709-05ac5ecd-5266-4257-a080-4502888fe766.png" alt="Example Image" width="40" > Quantitative Survey</h1>
+![Example Image](/main/Documents/Quan.png)
 
 <h1> <img src="https://user-images.githubusercontent.com/71640494/234424801-31d4241f-402d-460e-be8f-58e7be68f1ec.png" alt="Example Image" width="40" > Feedback Survey</h1>
+
 
 
 
