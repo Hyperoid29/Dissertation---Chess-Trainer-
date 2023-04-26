@@ -108,13 +108,87 @@ yarn run start # using yarn
 
 
 
-
-
-
-
-
-
 <h1> <img src="https://user-images.githubusercontent.com/71640494/234424801-31d4241f-402d-460e-be8f-58e7be68f1ec.png" alt="Example Image" width="40" > Feedback Survey</h1>
+
+<h4>Feedback Survey Title</h4>
+
+![Feedback Survey Title](./Documents/Feed%231.png)
+
+
+<h4>On a scale of 1 to 5, how satisfied were you with the overall use-interface of the web application?</h4>
+
+![On a scale of 1 to 5, how satisfied were you with the overall use-interface of the web application?](./Documents/Feed%232.png)
+
+
+<h4>On a scale of 1 to 5, how easy was it to understand the step-by-step instructions provided in the application?</h4>
+
+![On a scale of 1 to 5, how easy was it to understand the step-by-step instructions provided in the application?](./Documents/Feed%233.png)
+
+<h4>How satisfied were you with the AI opponent's level of difficulty?</h4>
+
+![How satisfied were you with the AI opponent's level of difficulty?](./Documents/Feed%234.png)
+
+<h4>Did you find the analytics provided helpful in improving your game? Why or why not?</h4>
+
+![Did you find the analytics provided helpful in improving your game? Why or why not?](./Documents/Feed%235.png)
+
+<h4>On a scale of 1 to 5, how challenging did you find the AI opponent to be?</h4>
+
+![On a scale of 1 to 5, how challenging did you find the AI opponent to be?](./Documents/Feed%236.png)
+
+<h4>How useful did you find the chess opening instructional resource provided in the application?</h4>
+
+![How useful did you find the chess opening instructional resource provided in the application?](./Documents/Feed%237.png)
+
+<h4>On a scale of 1 to 5, how satisfied were you with the variety and quality of the forum discussions?</h4>
+
+![On a scale of 1 to 5, how satisfied were you with the variety and quality of the forum discussions?](./Documents/Feed%238.png)
+
+<h4>Did you feel comfortable posting your own questions or comments in the forum?</h4>
+
+![Did you feel comfortable posting your own questions or comments in the forum?](./Documents/Feed%239.png)
+
+<h4>On a scale of 1 to 5, how likely are you to continue using the forum page in the future?</h4>
+
+![On a scale of 1 to 5, how likely are you to continue using the forum page in the future?](./Documents/Feed%2320.png)
+
+<h4>Is there any additional functionality or features that you would like to see added to the forum page?</h4>
+
+![Is there any additional functionality or features that you would like to see added to the forum page?](./Documents/Feed%2310.png)
+
+<h4>How often did you check the leaderboard while using the application?</h4>
+
+![How often did you check the leaderboard while using the application?](./Documents/Feed%2311.png)
+
+<h4>Did you find the leaderboard to be motivating in improving your chess skills?</h4>
+
+![Did you find the leaderboard to be motivating in improving your chess skills?](./Documents/Feed%2312.png)
+
+<h4>Did you find the leaderboard rankings to be accurate and reflective of player skill?</h4>
+
+![Did you find the leaderboard rankings to be accurate and reflective of player skill?](./Documents/Feed%2313.png)
+
+<h4>Would you be interested in participating in tournaments or challenges with other players on the leaderboard?</h4>
+
+![Would you be interested in participating in tournaments or challenges with other players on the leaderboard?](./Documents/Feed%2314.png)
+
+<h4>Did the win/loss ratio motivate you to improve your gameplay?</h4>
+
+![Did the win/loss ratio motivate you to improve your gameplay?](./Documents/Feed%2315.png)
+
+<h4>How frequently did you check your win/loss ratio?</h4>
+
+![How frequently did you check your win/loss ratio?](./Documents/Feed%2316.png)
+
+<h4>Did the win/loss ratio accurately reflect your skill level?</h4>
+
+![Did the win/loss ratio accurately reflect your skill level?](./Documents/Feed%2317.png)
+
+<h4>Did the win/loss ratio accurately reflect your skill level?</h4>
+
+![Did the win/loss ratio accurately reflect your skill level?](./Documents/Feed%2318.png)
+
+
 
 
 
