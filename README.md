@@ -46,7 +46,73 @@ yarn run start # using yarn
 <h4>Leaderboard Page</h4>
 
 <h1> <img src="https://user-images.githubusercontent.com/71640494/234424709-05ac5ecd-5266-4257-a080-4502888fe766.png" alt="Example Image" width="40" > Quantitative Survey</h1>
-![Example Image](Documents/Quan.png)
+
+<h4>Quantitative Research Topic</h4>
+
+![Example Image](./Documents/Quan%231.png)
+
+<h4>How frequently do you play chess?</h4>
+
+![Example Image](./Documents/Quan%232.png)
+
+<h4>What is your experience level with chess?</h4>
+
+![Example Image](./Documents/Quan%233.png)
+
+<h4>Which of the following features would be the most important to you in a chess web application for beginners?</h4>
+
+![Example Image](./Documents/Quan%234.png)
+
+<h4>What device(s) do you typically use to access web applications?</h4>
+
+![Example Image](./Documents/Quan%235.png)
+
+<h4>How important is it for the chess web application to have a clean and user-friendly interface?</h4>
+
+![Example Image](./Documents/Quan%236.png)
+
+<h4>How important is it for the chess web application to have a feature that tracks your progress and improvement over time?</h4>
+
+![Example Image](./Documents/Quan%237.png)
+
+<h4>How important is it for the chess web application to have a feature that allows you to practice against different difficulty levels of computer opponents?</h4>
+
+![Example Image](./Documents/Quan%238.png)
+
+<h4>On a scale of 1 to 5, how easy do you find chess to learn?</h4>
+
+![Example Image](./Documents/Quan%239.png)
+
+<h4>How/why do you play chess?</h4>
+
+![Example Image](./Documents/Quan%2310.png)
+
+<h4>What aspects of chess do you like and dislike?</h4>
+
+![Example Image](./Documents/Quan%2311.png)
+
+<h4>What platforms do you watch Chess in? </h4>
+
+![Example Image](./Documents/Quan%2312.png)
+
+<h4>Are there any specific features or functionality you would like to see in a future version of a chess web application?</h4>
+
+![Example Image](./Documents/Quan%2313.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h1> <img src="https://user-images.githubusercontent.com/71640494/234424801-31d4241f-402d-460e-be8f-58e7be68f1ec.png" alt="Example Image" width="40" > Feedback Survey</h1>
 
