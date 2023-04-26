@@ -164,29 +164,29 @@ yarn run start # using yarn
 
 ![Did you find the leaderboard to be motivating in improving your chess skills?](./Documents/Feed%2312.png)
 
-<h4>Did you find the leaderboard rankings to be accurate and reflective of player skill?</h4>
+<h4>Did the win/loss ratio motivate you to improve your gameplay?</h4>
 
-![Did you find the leaderboard rankings to be accurate and reflective of player skill?](./Documents/Feed%2313.png)
+![Did the win/loss ratio motivate you to improve your gameplay?](./Documents/Feed%2313.png)
 
 <h4>Would you be interested in participating in tournaments or challenges with other players on the leaderboard?</h4>
 
 ![Would you be interested in participating in tournaments or challenges with other players on the leaderboard?](./Documents/Feed%2314.png)
 
-<h4>Did the win/loss ratio motivate you to improve your gameplay?</h4>
-
-![Did the win/loss ratio motivate you to improve your gameplay?](./Documents/Feed%2315.png)
-
 <h4>How frequently did you check your win/loss ratio?</h4>
 
-![How frequently did you check your win/loss ratio?](./Documents/Feed%2316.png)
+![How frequently did you check your win/loss ratio?](./Documents/Feed%2315.png)
 
 <h4>Did the win/loss ratio accurately reflect your skill level?</h4>
 
-![Did the win/loss ratio accurately reflect your skill level?](./Documents/Feed%2317.png)
+![Did the win/loss ratio accurately reflect your skill level?](./Documents/Feed%2316.png)
 
-<h4>Did the win/loss ratio accurately reflect your skill level?</h4>
+<h4>Would you like to see more detailed win/loss ratio analysis, such as by opponent or time period?</h4>
 
-![Did the win/loss ratio accurately reflect your skill level?](./Documents/Feed%2318.png)
+![Would you like to see more detailed win/loss ratio analysis, such as by opponent or time period?](./Documents/Feed%2317.png)
+
+<h4>Do you have any suggestions for improving the application's features or functionality?</h4>
+
+![Do you have any suggestions for improving the application's features or functionality?](./Documents/Feed%2318.png)
 
 
 
