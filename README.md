@@ -49,55 +49,55 @@ yarn run start # using yarn
 
 <h4>Quantitative Research Topic</h4>
 
-![Example Image](./Documents/Quan%231.png)
+![Quantitative Research Topic](./Documents/Quan%231.png)
 
 <h4>How frequently do you play chess?</h4>
 
-![Example Image](./Documents/Quan%232.png)
+![How frequently do you play chess?](./Documents/Quan%232.png)
 
 <h4>What is your experience level with chess?</h4>
 
-![Example Image](./Documents/Quan%233.png)
+![What is your experience level with chess?](./Documents/Quan%233.png)
 
 <h4>Which of the following features would be the most important to you in a chess web application for beginners?</h4>
 
-![Example Image](./Documents/Quan%234.png)
+![Which of the following features would be the most important to you in a chess web application for beginners?](./Documents/Quan%234.png)
 
 <h4>What device(s) do you typically use to access web applications?</h4>
 
-![Example Image](./Documents/Quan%235.png)
+![What device(s) do you typically use to access web applications?](./Documents/Quan%235.png)
 
 <h4>How important is it for the chess web application to have a clean and user-friendly interface?</h4>
 
-![Example Image](./Documents/Quan%236.png)
+![How important is it for the chess web application to have a clean and user-friendly interface?](./Documents/Quan%236.png)
 
 <h4>How important is it for the chess web application to have a feature that tracks your progress and improvement over time?</h4>
 
-![Example Image](./Documents/Quan%237.png)
+![How important is it for the chess web application to have a feature that tracks your progress and improvement over time?](./Documents/Quan%237.png)
 
 <h4>How important is it for the chess web application to have a feature that allows you to practice against different difficulty levels of computer opponents?</h4>
 
-![Example Image](./Documents/Quan%238.png)
+![How important is it for the chess web application to have a feature that allows you to practice against different difficulty levels of computer opponents?](./Documents/Quan%238.png)
 
 <h4>On a scale of 1 to 5, how easy do you find chess to learn?</h4>
 
-![Example Image](./Documents/Quan%239.png)
+![On a scale of 1 to 5, how easy do you find chess to learn?](./Documents/Quan%239.png)
 
 <h4>How/why do you play chess?</h4>
 
-![Example Image](./Documents/Quan%2310.png)
+![How/why do you play chess?](./Documents/Quan%2310.png)
 
 <h4>What aspects of chess do you like and dislike?</h4>
 
-![Example Image](./Documents/Quan%2311.png)
+![What aspects of chess do you like and dislike?](./Documents/Quan%2311.png)
 
 <h4>What platforms do you watch Chess in? </h4>
 
-![Example Image](./Documents/Quan%2312.png)
+![What platforms do you watch Chess in?](./Documents/Quan%2312.png)
 
 <h4>Are there any specific features or functionality you would like to see in a future version of a chess web application?</h4>
 
-![Example Image](./Documents/Quan%2313.png)
+![Are there any specific features or functionality you would like to see in a future version of a chess web application?](./Documents/Quan%2313.png)
 
 
 
