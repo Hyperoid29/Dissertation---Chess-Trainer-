@@ -1,5 +1,7 @@
 ![Github Status](https://img.shields.io/badge/Developer-ShreevatsaNayak-blue?logo=github)
 ![React Version](https://img.shields.io/badge/React-v18.1.0-blue.svg?logo=react)
+![Firebase Version](https://img.shields.io/badge/Firebase-v9.18.0-orange.svg?logo=firebase)
+![React ApexCharts Version](https://img.shields.io/badge/React%20ApexCharts-v1.4.0-blue?logo=apexcharts)
 <h1> <img src="https://user-images.githubusercontent.com/71640494/234418273-5e973cb5-3148-4f3a-b737-8b5e104a5ec7.png" alt="Example Image" width="40" > ChessTrainer </h1>
 
 Chess is a board game played by two players on an 8x8 grid with 16 pieces. The goal is to checkmate the opponent's king, achieved by the strategic use of different pieces. The game can also end in resignation or a draw.
