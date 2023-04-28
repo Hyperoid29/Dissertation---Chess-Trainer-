@@ -12,7 +12,7 @@ This project aims to offer a user-friendly and immersive learning experience for
 ```console
 git clone https://github.com/Hyperoid29/Dissertation---Chess-Trainer-.git
 
-cd Dissertation---Chess-Trainer--main
+cd Dissertation---Chess-Trainer-
 ```
 <h3>Install Necessary Dependancies and Packages </h2>
 
