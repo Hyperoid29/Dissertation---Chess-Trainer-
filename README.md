@@ -9,14 +9,36 @@ This project aims to offer a user-friendly and immersive learning experience for
 
 <h1> <img src="https://user-images.githubusercontent.com/71640494/234424420-b9af16dd-9f0d-4688-a419-c59fc8aa4154.png" alt="Example Image" width="40" > Installlation Instruction</h1>
 
+<h3>NodeJS Installation</h3>
+Install node using this link: https://nodejs.org/en/download
+
+<h3>IMPORTANT INFORMATION</h3>
+Make sure NodeJS is on version "16.17.0"
+
+<h3>Check NodeJS Version</h3>
+
+```console
+node -v
+```
+
+If it is already on version 16.17.0, skip this stage and proceed to the next step. 
+
+
+
+<h3></h3>
+
+
 ```console
 git clone https://github.com/Hyperoid29/Dissertation---Chess-Trainer-.git
 
 cd Dissertation---Chess-Trainer-
+
+.code
 ```
 <h3>Install Necessary Dependancies and Packages </h2>
 
 ```console
+
 npm install # using npm
 or 
 yarn install # using yarn
@@ -29,7 +51,7 @@ SKIP_PREFLIGHT_CHECK=true
 ```
 Click save and proceed to the next step. 
 
-<h3>Run Application</h2>
+<h3>Run Application</h3>
 
 ```console
 npm start # using npm
