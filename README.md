@@ -28,36 +28,38 @@ If it is already on version 16.17.0, skip this stage and proceed to the next ste
 
 <h3></h3>
 
+<h3>IDE Terminal Code</h3>
 
 ```console
 git clone https://github.com/Hyperoid29/Dissertation---Chess-Trainer-.git
 
 cd Dissertation---Chess-Trainer-
 
-.code
+code .
 ```
-<h3>Install Necessary Dependancies and Packages </h2>
 
-```console
-
-npm install # using npm
-or 
-yarn install # using yarn
-```
 <h3>IMPORTANT INFORMATION</h2>
-Create an .env file and paste in the following code: 
+Create an .env file on the IDE file explorer and paste in the following code: 
 
 ```console
 SKIP_PREFLIGHT_CHECK=true
 ```
+
+
 Click save and proceed to the next step. 
+
+<h3>Install Necessary Dependancies and Packages </h2>
+
+```console
+
+npm install --force 
+```
+
 
 <h3>Run Application</h3>
 
 ```console
-npm start # using npm
-or 
-yarn run start # using yarn
+npm start 
 ```
 
 <h3 id="revert">Optional Instruction to revert NodeJS version</h3>
