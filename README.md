@@ -21,10 +21,9 @@ Make sure NodeJS is on version "16.17.0"
 node -v
 ```
 
-If it is already on version 16.17.0, skip this stage and proceed to the next step. 
+If it is already on version 16.17.0, skip this stage and proceed to the next step. If not, click this link ----> [Link to revert NodeJS version to 16.17.0](#revert)
 
 
-[Here](#revert)
 
 
 <h3></h3>
@@ -61,7 +60,20 @@ or
 yarn run start # using yarn
 ```
 
-<h3 id="revert">Optional Insutrction to revert NodeJS version</h3>
+<h3 id="revert">Optional Instruction to revert NodeJS version</h3>
+
+```console
+* Go to this website "https://github.com/coreybutler/nvm-windows/releases"
+* Install "nvm-setup.exe"
+* Run setup
+* After running the program, type "nvm list" on command line (This should display the current nodeJS version)
+* Type "nvm install 16.17.0" and press enter
+* Type "nvm use 16.17.0"
+
+You should now be running nodeJS on version 16.17.0 
+```
+
+
 
 
 
