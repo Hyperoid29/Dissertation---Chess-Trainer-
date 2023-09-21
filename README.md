@@ -16,7 +16,7 @@ Make sure NodeJS is on version "16.17.0"
 node -v
 ```
 
-If it is already on version 16.17.0, skip this stage and proceed to the next step. If not, click this link ----> [Link to revert NodeJS version to 16.17.0](#revert)
+If it is already on version 16.17.0, skip this stage and proceed to the next step. If not, click this link ----> https://hackernoon.com/best-way-to-install-node-and-keep-it-up-to-date
 
 
 <h3></h3>
