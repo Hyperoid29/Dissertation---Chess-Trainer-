@@ -1,0 +1,95 @@
+.topic-container-forum {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    transition: all 0.3s ease-in-out;
+    height: 100px;
+}
+
+.topic-container-forum button {
+    position: relative;
+    left: 310px;
+    bottom: 10px;
+}
+
+
+.forum-sub-container {
+    transition: height 0.3s ease-in-out;
+}
+
+.enlarge .topic-container-forum {
+    height: 80px;
+}
+
+.enlarge .reply-form {
+    display: block;
+}
+
+.reply-form {
+    display: none;
+}
+
+.form-control {
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    height: 240px;
+    width: 740px;
+
+
+}
+
+.form-control button {
+    position: relative;
+}
+
+.form-group h4 {
+    color: white;
+    position: relative;
+    left: 10px;
+}
+
+.reply-form button {
+    position: relative;
+    left: 695px;
+
+}
+
+.form-control input {
+    position: relative;
+    left: 530px;
+    bottom: -10px;
+}
+
+.reply-container {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+
+
+}
+
+.reply-content {
+    margin-bottom: 10px;
+}
+
+img.bin-icon {
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 690px;
+    bottom: 40px;
+}
+
+.submit-button button {
+    position: relative;
+    bottom: -50px;
+    left: 640px;
+}

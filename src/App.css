@@ -1,0 +1,162 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;900&display=swap');
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	scroll-behavior: smooth;
+
+}
+
+body {
+	background: var(--color-bg)
+}
+
+
+a {
+	color: unset;
+	text-decoration: none !important;
+}
+
+.gradient__bg {
+	background: -moz-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+
+	/* safari 5.1+,chrome 10+ */
+	background: -webkit-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+
+	/* opera 11.10+ */
+	background: -o-radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+
+	/* ie 10+ */
+	background: -ms-radial-gradient(circle at 3% 25%, rgb(218, 218, 0) 0%, rgba(4, 12, 24, 1) 25%);
+
+	/* global 92%+ browsers support */
+	background: radial-gradient(circle at 3% 25%, rgba(0, 40, 83, 1) 0%, rgba(4, 12, 24, 1) 25%);
+}
+
+
+.gradient__text {
+	background: var(--gradient-text);
+	background-clip: text;
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.section__padding {
+	padding: 4rem 6rem;
+}
+
+.section__margin {
+	margin: 4rem 6rem;
+}
+
+
+.scale-up-center {
+	-webkit-animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+	animation: scale-up-center 0.4s cubic-bezier(0.390, 0.575, 0.565, 1.000) both;
+}
+
+@-webkit-keyframes scale-up-center {
+	0% {
+		-webkit-transform: scale(0.5);
+		transform: scale(0.5);
+	}
+
+	100% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+}
+
+@keyframes scale-up-center {
+	0% {
+		-webkit-transform: scale(0.5);
+		transform: scale(0.5);
+	}
+
+	100% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+	}
+}
+
+@media screen and (max-width: 700px) {
+	.section__padding {
+		padding: 4rem;
+	}
+
+	.section__margin {
+		margin: 4rem;
+	}
+}
+
+@media screen and (max-width: 550px) {
+	.section__padding {
+		padding: 4rem 2rem;
+	}
+
+	.section__margin {
+		margin: 4rem 2rem;
+	}
+}
+
+
+html,
+body,
+#root,
+.App {
+	min-height: 100vh;
+	min-width: 100vw;
+}
+
+main,
+.game {
+	min-height: calc(100vh - 86px);
+	min-width: 100vw;
+}
+
+
+
+
+
+
+
+@media only screen and (max-height: 500px),
+(max-width: 500px) {
+	.modal-title {
+		font-size: 2rem;
+		margin: 1vh 0;
+	}
+
+	.pieces>svg {
+		width: 40px;
+		height: 40px;
+	}
+}
+
+.row {
+	margin: 0;
+	width: 100%;
+}
+
+
+
+.blink {
+	animation: blinking-text 2s infinite ease-in-out;
+	transform: translateZ(0);
+}
+
+@keyframes blinking-text {
+	0% {
+		opacity: 0.5;
+	}
+
+	50% {
+		opacity: 1;
+	}
+
+	100% {
+		opacity: 0.5;
+	}
+}
